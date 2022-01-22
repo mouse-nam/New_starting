@@ -1,0 +1,13 @@
+.divition{
+    
+    width: 30%;
+    float:left;
+    padding-left:2%;
+    margin-left: 1%;
+    border:1px solid black;
+   
+    
+}
+.form-control{
+    font-size: small;
+}
